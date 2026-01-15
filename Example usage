@@ -1,0 +1,2 @@
+python main.py --mode compare
+python main.py --mode optimize --strategy enhanced
