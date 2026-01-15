@@ -1,0 +1,7 @@
+- SMA / EMA / WMA / DEMA / TEMA support
+- Trend filter (higher timeframe MA)
+- ADX trend-strength filter
+- ATR-based volatility regime detection
+- Parameter optimization via Sharpe Ratio
+- Trade-level export (PnL, R-multiples)
+- Monte Carlo–ready trade output
